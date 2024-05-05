@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
-- 📝 I regularly write articles on [https://letterboxd.com/teerthjj912/](https://letterboxd.com/teerthjj912/)
+- 📝 I regularly write articles on [My Letterboxd Handle!](https://letterboxd.com/teerthjj912/)
 
 - 💬 Ask me about **stuff you would regret later on!**
 
-- 📫 How to reach me **teerthjj2004@gmail.com**
+- 📫 How to reach me: **teerthjj2004@gmail.com**
 
-- ⚡ Fun fact **My film knowledge is impeccable.**
+- ⚡ Fun fact: **My film knowledge is impeccable.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
