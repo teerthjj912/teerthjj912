@@ -3,7 +3,6 @@
 <h3 align="center">A Passionate Developer from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teerthjj912" alt="teerthjj912" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=teerthjj912&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **some projects and improving my Web Development skills.**
 
