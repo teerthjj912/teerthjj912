@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [My Letterboxd Handle!](https://letterboxd.com/teerthjj912/)
 
-- 💬 Ask me about **stuff you would regret later on!**
+- 💬 Ask me about **tech stuff!**
 
 - 📫 How to reach me: **teerthjj2004@gmail.com**
 
