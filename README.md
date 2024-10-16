@@ -4,6 +4,8 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teerthjj912" alt="teerthjj912" /></a> </p>-->
 
+<p align="left"> <a href="https://komarev.com/ghpvc/?username=teerthjj912&color=brightgreen&style=for-the-badge" /> </a> </p>
+
 - 🔭 I’m currently working on **some projects and improving my Web Development skills.**
 
 - 🌱 I’m currently learning **JS, and focusing on UI/UX design as well.**
